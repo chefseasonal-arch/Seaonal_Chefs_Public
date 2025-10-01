@@ -10,3 +10,5 @@ Whether you have questions about seasonal ingredients, account access, or price 
 Please include as much detail as possible in your message so we can help you quickly and effectively.
 
 Thank you for using Seasonal Chefs!
+
+For T&C's see: https://github.com/chefseasonal-arch/Seaonal_Chefs_Public/blob/main/terms_And_Conditions.txt
